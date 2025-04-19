@@ -1,6 +1,8 @@
 module github.com/caddy-dns/bunny
 
-go 1.22.3
+go 1.23.0
+
+toolchain go1.24.2
 
 require (
 	github.com/caddyserver/caddy/v2 v2.8.4
