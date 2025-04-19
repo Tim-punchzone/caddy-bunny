@@ -1,4 +1,4 @@
-module github.com/caddy-dns/bunny
+module github.com/Tim-punchzone/caddy-bunny
 
 go 1.23.0
 
