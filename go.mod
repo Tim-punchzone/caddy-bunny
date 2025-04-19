@@ -20,7 +20,7 @@ require (
 	github.com/google/pprof v0.0.0-20210720184732-4bb14d4b1be1 // indirect
 	github.com/google/uuid v1.3.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.10 // indirect
-	github.com/mholt/acmez/v2 v3.1.2 // indirect
+	github.com/mholt/acmez/v3 v3.1.2 // indirect
 	github.com/miekg/dns v1.1.65 // indirect
 	github.com/onsi/ginkgo/v2 v2.9.5 // indirect
 	github.com/prometheus/client_golang v1.15.1 // indirect
